@@ -4,6 +4,12 @@ _This project has been created as part of the 42 curriculum by redei-ma, gpirozz
 
 > A real-time multiplayer isometric brawler built with Microservices, WebSockets, and 3D WebGL graphics.
 
+![Zeus vs Ade in the arena](screenshots/arena.jpg)
+
+| Character select | Profile | Leaderboard |
+|---|---|---|
+| ![Character select](screenshots/character-select.jpg) | ![Profile with stats and match history](screenshots/profile.png) | ![ELO leaderboard](screenshots/leaderboard.png) |
+
 ---
 
 ## Description
